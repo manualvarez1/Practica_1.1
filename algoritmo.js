@@ -1,0 +1,1 @@
+document.querySelector("body").innerHTML = <><h1>Campeones del mundo</h1><img src="Imagenes/Messi2.jpg" alt="Messi2"></img></>
